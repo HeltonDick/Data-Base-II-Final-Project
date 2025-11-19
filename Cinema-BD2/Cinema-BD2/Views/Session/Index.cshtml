@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Session>
+
+@{
+    ViewData["Title"] = "sessoes";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) sessao(ões).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhuma Sessao cadastrada.</h1>
+    }
+
+    <a asp-controller="Session" asp-action="Create">Novo</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Data</th>
+                <th>Sala</th>
+                <th>Idioma</th>
+                <th>Filme</th>
+                <th>Dimensao</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.SessionDate.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@s.Room?.Name</td>
+                    <td>@s.Language?.Name</td>
+                    <td>@s.Film?.Title</td>
+                    <td>@s.Dimension?.Name</td>
+                    <td>
+                        <a asp-controller="Session" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@s.Id">
+                            Editar
+                        </a>
+                    </td>
+                    <td>
+                        <form asp-controller="Session" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@s.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir esta sessao?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

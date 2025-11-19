@@ -1,0 +1,57 @@
+﻿@model Cinema_BD2.Models.Address
+
+@{
+    ViewData["Title"] = "Criar Distrito";
+}
+
+<h1 class="mt-3">Adicionar Novo Endereço</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                <label asp-for="Number" class="control-label">Número</label>
+                <input asp-for="Number" class="form-control" />
+                <span asp-validation-for="Number" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Logradouro" class="control-label">Logradouro</label>
+                <input asp-for="Logradouro" class="form-control" />
+                <span asp-validation-for="Logradouro" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reference" class="control-label">Referência</label>
+                <input asp-for="Reference" class="form-control" />
+                <span asp-validation-for="Reference" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cep" class="control-label">Cep</label>
+                <input asp-for="Cep" class="form-control" />
+                <span asp-validation-for="Cep" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="StreetId" class="control-label">Rua</label>
+                <select asp-for="StreetId" asp-items="ViewBag.StreetId" class="form-control"></select>
+                <span asp-validation-for="StreetId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DistrictId" class="control-label">Bairro</label>
+                <select asp-for="DistrictId" asp-items="ViewBag.DistrictId" class="form-control"></select>
+                <span asp-validation-for="DistrictId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Salvar</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

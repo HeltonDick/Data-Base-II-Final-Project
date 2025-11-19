@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Film>
+
+@{
+    ViewData["Title"] = "Filmes";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Filme(s).
+    </h1>
+
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhum Filme cadastrado.</h1>
+    }
+
+        <a asp-controller="Film" asp-action="Create">Novo</a>
+        <table class="table table-responsive table-hover table-striped">
+            <tr>
+                <th>Título</th>
+                <th>Duração</th>
+                <th>Classificação</th>
+                <th>Ações</th>
+            </tr>
+            <tbody>
+                @foreach (var film in Model)
+                {
+                    <tr>
+                        <td>@film.Title</td>
+                        <td>@film.Duration min</td>
+                        <td>@film.Classification?.MinAge anos</td>
+                        <td>
+                            <a asp-controller="Film" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@film.Id">
+                                Editar
+                            </a>
+                        </td>
+                        <td>
+                            <form asp-controller="Film" asp-action="Delete" method="post">
+                                <input type="hidden" name="id" value="@film.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir este Filme?');">
+                                    Excluir
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+</div>

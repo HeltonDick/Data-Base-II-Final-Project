@@ -1,0 +1,78 @@
+﻿@model PersonFormViewModel
+
+@{
+    ViewData["Title"] = "Editar Person";
+}
+
+<h1 class="mt-3">Editar Person</h1>
+
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Person.Id" />
+
+            <div class="form-group">
+                <label asp-for="Person.Name"></label>
+                <input asp-for="Person.Name" class="form-control" />
+                <span asp-validation-for="Person.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.Cpf"></label>
+                <input asp-for="Person.Cpf" class="form-control" />
+                <span asp-validation-for="Person.Cpf" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.BirthDate"></label>
+                <input asp-for="Person.BirthDate" class="form-control" type="date" />
+                <span asp-validation-for="Person.BirthDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.Contact"></label>
+                <input asp-for="Person.Contact" class="form-control" />
+                <span asp-validation-for="Person.Contact" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Gender</label>
+                <select asp-for="Person.GenderId"
+                        asp-items="@(new SelectList(Model.Genders, "Id", "Name", Model.Person.GenderId))"
+                        class="form-control">
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Address</label>
+                <select asp-for="Person.AddressId"
+                        asp-items="@(new SelectList(Model.Addresses, "Id", "Number", Model.Person.AddressId))"
+                        class="form-control">
+                </select>
+            </div>
+
+            <strong>Roles</strong>
+            <div>
+                @foreach (var role in Model.Roles)
+                {
+                    <label>
+                        <input type="checkbox"
+                               name="SelectedRoles"
+                               value="@role.Id"
+                               @(Model.SelectedRoles != null && Model.SelectedRoles.Contains(role.Id) ? "checked" : "") />
+                        @role.Name
+                    </label>
+
+                    <br />
+                }
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Salvar</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+

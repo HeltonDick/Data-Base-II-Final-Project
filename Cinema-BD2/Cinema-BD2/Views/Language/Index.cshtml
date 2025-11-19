@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Language>
+
+@{
+    ViewData["Title"] = "Idiomas";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Idioma(s).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhum Idioma cadastrado.</h1>
+    }
+
+    <a asp-controller="Language" asp-action="Create">Novo</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Idioma</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var l in Model)
+            {
+                <tr>
+                    <td>@l.Id</td>
+                    <td>@l.Name</td>
+                    <td>
+                        <a asp-controller="Language" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@l.Id">
+                            Editar
+                        </a>
+                    </td>
+                    <td>
+                        <form asp-controller="Language" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@l.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir este Idioma?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

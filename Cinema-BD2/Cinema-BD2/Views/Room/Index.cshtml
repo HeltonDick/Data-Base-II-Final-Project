@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Room>
+
+@{
+    ViewData["Title"] = "Salas";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Sala(s).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhuma Sala cadastrada.</h1>
+    }
+
+    <a asp-controller="Room" asp-action="Create">Novo</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Capacidade</th>
+                <th>Tipo De Sala</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var t in Model)
+            {
+                <tr>
+                    <td>@t.Id</td>
+                    <td>@t.Name</td>
+                    <td>@t.Capacity</td>
+                    <td>@t.TypeOfRoom?.Name</td>
+                    <td>
+                        <a asp-controller="Room" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@t.Id">
+                            Editar
+                        </a>
+                    </td>
+                    <td>
+                        <form asp-controller="Room" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@t.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir esta Sala?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

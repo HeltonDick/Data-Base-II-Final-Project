@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Classification>
+
+@{
+    ViewData["Title"] = "Classificações";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Classificação(ções).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhuma classificação cadastrada.</h1>
+    }
+
+    <a asp-controller="Classification" asp-action="Create">Novo</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Classificação</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Id</td>
+                    <td>@c.MinAge</td>
+                    <td>
+                        <a asp-controller="Classification" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@c.Id">
+                            Editar
+                        </a>
+                    </td>
+                    <td>
+                        <form asp-controller="Classification" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@c.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir esta Classificação?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

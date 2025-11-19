@@ -1,0 +1,67 @@
+﻿@model Cinema_BD2.ViewModels.FilmFormViewModel
+
+@{
+    ViewData["Title"] = "Editar Filme";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Titulo</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Duration" class="control-label">Duracao</label>
+                <input asp-for="Duration" type="number" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label">Descrição</label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ClassificationId" class="control-label">Classificação</label>
+                <select asp-for="ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
+                <span asp-validation-for="ClassificationId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Gêneros</label>
+                @foreach (var genre in Model.Genres)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="SelectedGenreIds" value="@genre.Id" @(Model.SelectedGenreIds.Contains(genre.Id) ? "checked" : "") />
+                        <label class="form-check-label">@genre.Name</label>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <label>Estúdios</label>
+                @foreach (var studio in Model.Studios)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="SelectedStudioIds" value="@studio.Id" @(Model.SelectedStudioIds.Contains(studio.Id) ? "checked" : "") />
+                        <label class="form-check-label">@studio.Name</label>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Salvar</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\views\\typeofroom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\views\\typeofroom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\views\\ticket\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\views\\ticket\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\banco-de-dados-ii-cinema\\cinema-bd2\\cinema-bd2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D411F95-B9C4-4046-8240-C8E27F58A138}|Cinema-BD2\\Cinema-BD2.csproj|solutionrelative:cinema-bd2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cinema-BD2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:16:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Program.cs",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Program.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Program.cs",
+              "RelativeToolTip": "Cinema-BD2\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:11:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\TypeOfRoom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Views\\TypeOfRoom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\TypeOfRoom\\Index.cshtml",
+              "RelativeToolTip": "Cinema-BD2\\Views\\TypeOfRoom\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:09:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Views\\Ticket\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Edit.cshtml",
+              "RelativeToolTip": "Cinema-BD2\\Views\\Ticket\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:08:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Views\\Ticket\\Create.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Create.cshtml",
+              "RelativeToolTip": "Cinema-BD2\\Views\\Ticket\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:07:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Views\\Ticket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Views\\Ticket\\Index.cshtml",
+              "RelativeToolTip": "Cinema-BD2\\Views\\Ticket\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:06:12.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Cinema-BD2\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:51:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Cinema-BD2\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\Banco-De-Dados-II-Cinema\\Cinema-BD2\\Cinema-BD2\\Models\\Ticket.cs",
+              "RelativeToolTip": "Cinema-BD2\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:50:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

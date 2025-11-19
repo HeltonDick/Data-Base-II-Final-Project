@@ -1,0 +1,63 @@
+﻿@model Cinema_BD2.Models.PersonFormViewModel
+
+@{
+    ViewData["Title"] = "Criar Pessoa";
+}
+
+<h1 class="mt-3">Criar Nova Pessoa</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Person.Name"></label>
+                <input asp-for="Person.Name" class="form-control" />
+                <span asp-validation-for="Person.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.Cpf"></label>
+                <input asp-for="Person.Cpf" class="form-control" />
+                <span asp-validation-for="Person.Cpf" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.BirthDate"></label>
+                <input asp-for="Person.BirthDate" class="form-control" type="date" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Person.Contact"></label>
+                <input asp-for="Person.Contact" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>Gender</label>
+                <select asp-for="Person.GenderId" asp-items="@(new SelectList(Model.Genders, "Id", "Name"))" class="form-control"></select>
+            </div>
+
+            <div class="form-group">
+                <label>Address</label>
+                <select asp-for="Person.AddressId" asp-items="@(new SelectList(Model.Addresses, "Id", "Number"))" class="form-control"></select>
+            </div>
+
+            <strong>Roles</strong>
+            <div>
+                @foreach (var role in Model.Roles)
+                {
+                    <label>
+                        <input type="checkbox" name="SelectedRoles" value="@role.Id" /> @role.Name
+                    </label>
+
+                    <br />
+                }
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Salvar</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

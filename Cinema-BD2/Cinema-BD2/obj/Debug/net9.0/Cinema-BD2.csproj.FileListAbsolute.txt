@@ -1,0 +1,464 @@
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\appsettings.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.staticwebassets.runtime.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.staticwebassets.endpoints.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.exe
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.deps.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.runtimeconfig.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.pdb
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.AssemblyReference.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.AssemblyInfoInputs.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.AssemblyInfo.cs
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.CoreCompileInputs.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.RazorAssemblyInfo.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.RazorAssemblyInfo.cs
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\bundle\Cinema-BD2.styles.css
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\projectbundle\Cinema-BD2.bundle.scp.css
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\np46xcv9g9-b9sayid5wm.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\2c1sps4s6o-61n19gt1b8.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pq249jes5u-xtxxf3hu2r.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d6hquh4fhy-bqjiyaj88i.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\617usigvkp-c2jlpeoesf.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\qkznqv96w5-erw9l3u2r3.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\dt1qx6wu42-aexeepp0ev.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\04c76zelyi-d7shbmvgxk.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6onoleqs76-ausgxo2sd3.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\h5igzp4tz4-k8d9w2qqmf.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\lue0t8k266-cosvhxvwiu.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\aayxhfbmpt-ub07r2b239.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d62is11m8q-fvhpjtyr6v.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\09njv2o7yy-b7pk76d08c.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\xk1wexcsag-fsbi9cje9m.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\7gsn0vg0cy-rzd6atqjts.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\o0tx0xhry0-ee0r1s7dh0.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\jd4a0gondx-dxx9fxp4il.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\28ggxpv3xl-jd9uben2k1.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\xdk5xkvjmk-khv3u5hwcm.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\mbltul0lb7-r4e9w2rdcm.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\v088qno75a-lcd1t2u6c8.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\w2uia4kac3-c2oey78nd0.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\8oydjzty4k-tdbxkamptv.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\3j3xpnj41t-j5mq2jizvt.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\gi53jf1zhb-06098lyss8.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\cgyefwo8pf-nvvlpmu67g.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\m6gvpq5t0s-s35ty4nyc5.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9c9ypjr0p3-pj5nd1wqec.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\bn14fw0hwz-46ein0sx1k.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\jx7aibro53-v0zj4ognzu.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\ahmtx0qeyf-37tfw0ft22.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\mhnncmgss0-hrwsygsryq.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d5w7748pca-pk9g2wxc8p.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9s7jp7h3i5-ft3s53vfgj.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\bqg016elp4-6cfz1n2cew.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\b4qux1uqmr-6pdc2jztkx.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\frvk0pwrrx-493y06b0oq.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\5kj3ha7418-iovd86k7lj.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\w6y1iyfspj-vr1egmr9el.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\z11ugf4j0j-kbrnm935zg.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\4g91ng88e8-jj8uyg4cgr.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\c7gyh9ckfe-y7v9cxd14o.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\nx4r1l4mzl-notf2xhcfb.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\b91rvo61xv-h1s4sie4z3.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\fv2z0lcig1-63fj8s7r0e.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9csss2yqxd-0j3bgjxly4.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\msjcdr4vup-47otxtyo56.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0hv1104w5c-4v8eqarkd7.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pdvptenbwa-356vix0kms.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6h5w9r6yx5-83jwlth58m.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\c8qnohxa9p-mrlpezrjn3.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\4tjrnbjlg8-lzl9nlhx6b.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\8xdkqssf41-ag7o75518u.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\aagw5htxcb-x0q3zqp4vz.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pt180fpwou-0i3buxo5is.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0n3vgjqwdx-o1o13a6vjx.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6r2vlgkp60-ttgo8qnofa.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\2zc85hiex2-2z0ns9nrw6.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\gzw8iztwl4-muycvpuwrr.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\n78fbrgjlq-87fc7y1x7t.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0jkvwwmbkc-mlv21k5csn.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\cmpmp52d7g-ydpan12rup.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\itryx3uwl6-ydpan12rup.gz
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.Up2Date
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\refint\Cinema-BD2.dll
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.pdb
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.genruntimeconfig.cache
+C:\Users\427603\Desktop\TrabalhoBD2\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\ref\Cinema-BD2.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\appsettings.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.staticwebassets.runtime.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.staticwebassets.endpoints.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.exe
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.deps.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.runtimeconfig.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Cinema-BD2.pdb
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.AssemblyReference.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.AssemblyInfoInputs.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.AssemblyInfo.cs
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.CoreCompileInputs.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.RazorAssemblyInfo.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.RazorAssemblyInfo.cs
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.sourcelink.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\bundle\Cinema-BD2.styles.css
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\scopedcss\projectbundle\Cinema-BD2.bundle.scp.css
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\np46xcv9g9-b9sayid5wm.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\2c1sps4s6o-61n19gt1b8.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pq249jes5u-xtxxf3hu2r.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d6hquh4fhy-t1cqhe9u97.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\617usigvkp-c2jlpeoesf.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\qkznqv96w5-sejl45xvog.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\dt1qx6wu42-aexeepp0ev.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\04c76zelyi-xvp3kq03qx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6onoleqs76-ausgxo2sd3.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\h5igzp4tz4-22vffe00uq.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\lue0t8k266-cosvhxvwiu.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\aayxhfbmpt-qesaa3a1fm.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d62is11m8q-fvhpjtyr6v.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\09njv2o7yy-tmc1g35s3z.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\xk1wexcsag-fsbi9cje9m.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\7gsn0vg0cy-rxsg74s51o.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\o0tx0xhry0-ee0r1s7dh0.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\jd4a0gondx-q9ht133ko3.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\28ggxpv3xl-jd9uben2k1.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\xdk5xkvjmk-gye83jo8yx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\mbltul0lb7-r4e9w2rdcm.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\v088qno75a-wl58j5mj3v.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\w2uia4kac3-c2oey78nd0.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\8oydjzty4k-d4r6k3f320.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\3j3xpnj41t-j5mq2jizvt.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\gi53jf1zhb-keugtjm085.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\cgyefwo8pf-nvvlpmu67g.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\m6gvpq5t0s-zub09dkrxp.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9c9ypjr0p3-pj5nd1wqec.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\bn14fw0hwz-43atpzeawx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\jx7aibro53-v0zj4ognzu.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\ahmtx0qeyf-ynyaa8k90p.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\mhnncmgss0-hrwsygsryq.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\d5w7748pca-c63t5i9ira.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9s7jp7h3i5-ft3s53vfgj.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\bqg016elp4-4094rpi4f9.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\b4qux1uqmr-6pdc2jztkx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\frvk0pwrrx-hd3gran6i8.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\5kj3ha7418-iovd86k7lj.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\w6y1iyfspj-ltid2c489k.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\z11ugf4j0j-kbrnm935zg.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\4g91ng88e8-8vyfqsqgz1.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\c7gyh9ckfe-y7v9cxd14o.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\nx4r1l4mzl-u9q1upor1n.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\b91rvo61xv-h1s4sie4z3.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\fv2z0lcig1-4d85u1mtcx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\9csss2yqxd-0j3bgjxly4.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\msjcdr4vup-03hjc8e09r.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0hv1104w5c-48y08845bh.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pdvptenbwa-356vix0kms.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6h5w9r6yx5-83jwlth58m.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\c8qnohxa9p-mrlpezrjn3.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\4tjrnbjlg8-worgj0nhwm.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\8xdkqssf41-gk0pw8i4co.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\aagw5htxcb-x0q3zqp4vz.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\pt180fpwou-d6nrnj6jjx.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0n3vgjqwdx-m9qm4tazc0.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\6r2vlgkp60-ttgo8qnofa.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\2zc85hiex2-jjsuc0puko.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\gzw8iztwl4-9vr69e8ynj.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\n78fbrgjlq-87fc7y1x7t.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\0jkvwwmbkc-mlv21k5csn.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\cmpmp52d7g-ydpan12rup.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\compressed\itryx3uwl6-ydpan12rup.gz
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets\msbuild.Cinema-BD2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets\msbuild.Cinema-BD2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets\msbuild.build.Cinema-BD2.props
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Cinema-BD2.props
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Cinema-BD2.props
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.csproj.Up2Date
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\refint\Cinema-BD2.dll
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.pdb
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\Cinema-BD2.genruntimeconfig.cache
+C:\Users\helto\OneDrive\Área de Trabalho\Banco-De-Dados-II-Cinema\Cinema-BD2\Cinema-BD2\obj\Debug\net9.0\ref\Cinema-BD2.dll

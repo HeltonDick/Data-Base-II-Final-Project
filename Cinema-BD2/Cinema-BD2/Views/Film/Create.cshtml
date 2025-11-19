@@ -1,0 +1,68 @@
+﻿@model Cinema_BD2.ViewModels.FilmFormViewModel
+
+@{
+    ViewData["Title"] = "Criar Film";
+}
+
+<h1 class="mt-3">Criar Novo Filme</h1>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.AntiForgeryToken()
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Título</label>
+                <input asp-for="Title" type="text" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Duration" class="control-label">Duracao</label>
+                <input asp-for="Duration" type="number" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label">Descricao</label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ClassificationId" class="control-label">Classificação</label>
+                <select asp-for="ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
+                <span asp-validation-for="ClassificationId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Gêneros</label>
+                @foreach (var genre in Model.Genres)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="SelectedGenreIds" value="@genre.Id" />
+                        <label class="form-check-label">@genre.Name</label>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Estúdios</label>
+                @foreach (var studio in Model.Studios)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="SelectedStudioIds" value="@studio.Id" />
+                        <label class="form-check-label">@studio.Name</label>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Salvar</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

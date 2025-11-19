@@ -1,0 +1,49 @@
+﻿@model List<Person>
+
+@{
+    ViewData["Title"] = "Pessoas";
+}
+
+<h2>People</h2>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Pessoa(s).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhuma Pessoa cadastrada.</h1>
+    }
+
+    <a asp-action="Create" class="btn btn-primary">Add</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>CPF</th>
+                <th>Gender</th>
+                <th>Roles</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Cpf</td>
+                    <td>@p.Gender?.Name</td>
+                    <td>@string.Join(", ", p.Roles.Select(r => r.Name))</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@p.Id">Edit</a> |
+                        <form asp-action="Delete" method="post" style="display:inline">
+                            <input type="hidden" name="id" value="@p.Id" />
+                            <button class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

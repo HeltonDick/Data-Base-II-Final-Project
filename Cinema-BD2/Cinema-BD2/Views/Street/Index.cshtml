@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Cinema_BD2.Models.Street>
+
+@{
+    ViewData["Title"] = "Ruas";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @(Model?.Count() ?? 0) Rua(s).
+    </h1>
+
+    @if (!Model.Any())
+    {
+        <h1>Nenhuma Rua cadastrada.</h1>
+    }
+
+    <a asp-controller="Street" asp-action="Create">Novo</a>
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Rua</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>
+                        <a asp-controller="Street" asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@s.Id">
+                            Editar
+                        </a>
+                    </td>
+                    <td>
+                        <form asp-controller="Street" asp-action="Delete" method="post">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="id" value="@s.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir esta rua?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
