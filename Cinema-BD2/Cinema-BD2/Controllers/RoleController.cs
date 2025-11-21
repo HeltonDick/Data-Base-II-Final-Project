@@ -104,5 +104,19 @@ namespace Cinema_BD2.Controllers
                 RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
             });
         }
+
+        // Search Bar
+        [HttpGet]
+        public async Task<IActionResult> Index(string? search)
+        {
+            if (!string.IsNullOrEmpty(search))
+            {
+                var roleFiltred = await _roleRepository.GetByName(search);
+                return View(roleFiltred);
+            }
+
+            var roles = await _roleRepository.GetAll();
+            return View(roles);
+        }
     }
 }

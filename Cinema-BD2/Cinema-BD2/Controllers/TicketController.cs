@@ -85,19 +85,7 @@ namespace Cinema_BD2.Controllers
                 return View(ticket);
             }
 
-            try
-            {
-                await _ticketRepository.Update(ticket);
-            }
-            catch (Exception ex)
-            {
-                ModelState.AddModelError(string.Empty, "Ocorreu um erro ao atualizar o ingresso. Tente novamente.");
-                var typesOnError = await _ticketRepository.GetAll();
-
-                ViewBag.PersonId = new SelectList(typesOnError, "Id", "Name", ticket.PersonId);
-                return View(ticket);
-            }
-
+            await _ticketRepository.Update(ticket);
             return RedirectToAction(nameof(Index));
         }
     }

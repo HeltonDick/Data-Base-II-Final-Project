@@ -1,6 +1,7 @@
 ﻿using Cinema_BD2.Data;
 using Cinema_BD2.Models;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel;
 
 namespace Cinema_BD2.Repository
 {
@@ -34,6 +35,15 @@ namespace Cinema_BD2.Repository
                 .Include(r => r.TypeOfRoom)
                 .FirstOrDefaultAsync(r => r.Id == id);
         }
+
+        public async Task<List<Room>> GetByName(string name)
+        {
+           return await _cinemaContext.Rooms
+                .Where(r => r.Name!.ToLower().Contains(name.ToLower()))
+                .ToListAsync();
+
+        }
+
         public async Task Update(Room room)
         {
             _cinemaContext.Rooms.Update(room);

@@ -27,7 +27,6 @@ namespace Cinema_BD2.Data
         public DbSet<Street> Streets { get; set; }
         public DbSet<Film> Films { get; set; }
         public DbSet<Room> Rooms { get; set; }
-        public DbSet<RoomOfCinema> RoomOfCinemas { get; set; }
         public DbSet<Session> Sessions { get; set; }
         public DbSet<Ticket> Tickets { get; set; }
 
@@ -51,17 +50,8 @@ namespace Cinema_BD2.Data
             modelBuilder.Entity<Street>().ToTable("Street");
             modelBuilder.Entity<Film>().ToTable("Film");
             modelBuilder.Entity<Room>().ToTable("Room");
-            modelBuilder.Entity<RoomOfCinema>().ToTable("RoomOfCinema");
             modelBuilder.Entity<Session>().ToTable("Session");
             modelBuilder.Entity<Ticket>().ToTable("Ticket");
-
-            modelBuilder.Entity<Film>()
-                .HasMany(f => f.Genres)
-                .WithMany();
-
-            modelBuilder.Entity<Film>()
-                .HasMany(f => f.Studios)
-                .WithMany();
         }
     }
 }

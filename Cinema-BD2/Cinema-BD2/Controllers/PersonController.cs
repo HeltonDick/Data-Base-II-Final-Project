@@ -137,5 +137,19 @@ namespace Cinema_BD2.Controllers
             await _personRepository.Delete(person);
             return RedirectToAction(nameof(Index));
         }
+
+        // Search Bar
+        [HttpGet]
+        public async Task<IActionResult> Index(string? search)
+        {
+            if (!string.IsNullOrEmpty(search))
+            {
+                var personFiltred = await _personRepository.GetByName(search);
+                return View(personFiltred);
+            }
+
+            var persons = await _personRepository.GetAll();
+            return View(persons);
+        }
     }
 }

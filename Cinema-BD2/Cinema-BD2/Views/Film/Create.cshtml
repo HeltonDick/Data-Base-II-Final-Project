@@ -14,27 +14,27 @@
             @Html.AntiForgeryToken()
 
             <div class="form-group">
-                <label asp-for="Title" class="control-label">Título</label>
-                <input asp-for="Title" type="text" class="form-control" />
-                <span asp-validation-for="Title" class="text-danger"></span>
+                <label asp-for="Film.Title" class="control-label">Título</label>
+                <input asp-for="Film.Title" type="text" class="form-control" />
+                <span asp-validation-for="Film.Title" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Duration" class="control-label">Duracao</label>
-                <input asp-for="Duration" type="number" class="form-control" />
-                <span asp-validation-for="Duration" class="text-danger"></span>
+                <label asp-for="Film.Duration" class="control-label">Duracao</label>
+                <input asp-for="Film.Duration" type="number" class="form-control" />
+                <span asp-validation-for="Film.Duration" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Description" class="control-label">Descricao</label>
-                <textarea asp-for="Description" class="form-control"></textarea>
-                <span asp-validation-for="Description" class="text-danger"></span>
+                <label asp-for="Film.Description" class="control-label">Descricao</label>
+                <textarea asp-for="Film.Description" class="form-control"></textarea>
+                <span asp-validation-for="Film.Description" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="ClassificationId" class="control-label">Classificação</label>
-                <select asp-for="ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
-                <span asp-validation-for="ClassificationId" class="text-danger"></span>
+                <label asp-for="Film.ClassificationId" class="control-label">Classificação</label>
+                <select asp-for="Film.ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
+                <span asp-validation-for="Film.ClassificationId" class="text-danger"></span>
             </div>
 
             <div class="form-group">
@@ -58,6 +58,8 @@
                     </div>
                 }
             </div>
+
+            <hr />
 
             <div class="form-group">
                 <button type="submit" class="btn btn-success">Salvar</button>

@@ -80,20 +80,22 @@ namespace Cinema_BD2.Controllers
                 return View(room);
             }
 
-            try
-            {
-                await _roomRepository.Update(room);
-            }
-            catch (Exception ex)
-            {
-                ModelState.AddModelError(string.Empty, "Ocorreu um erro ao atualizar a sala. Tente novamente.");
-                var typesOnError = await _typeOfRoomRepository.GetAll();
-
-                ViewBag.TypeOfRoomId = new SelectList(typesOnError, "Id", "Name", room.TypeOfRoomId);
-                return View(room);
-            }
-
+            await _roomRepository.Update(room);
             return RedirectToAction(nameof(Index));
+        }
+
+        // Search Bar
+        [HttpGet]
+        public async Task<IActionResult> Index(string? search)
+        {
+            if (!string.IsNullOrEmpty(search))
+            {
+                var rooFiltred = await _roomRepository.GetByName(search);
+                return View(rooFiltred);
+            }
+
+            var rooms = await _roomRepository.GetAll();
+            return View(rooms);
         }
     }
 }

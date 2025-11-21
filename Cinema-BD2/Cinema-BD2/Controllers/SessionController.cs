@@ -32,7 +32,7 @@ namespace Cinema_BD2.Controllers
         public async Task<IActionResult> Create()
         {
             ViewBag.LanguageId = new SelectList(await _languageRepository.GetAll(), "Id", "Name");
-            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Name");
+            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Tittle");
             ViewBag.RoomId = new SelectList(await _roomRepository.GetAll(), "Id", "Name");
             ViewBag.DimensionId = new SelectList(await _dimensionRepository.GetAll(), "Id", "Name");
             return View();
@@ -49,7 +49,7 @@ namespace Cinema_BD2.Controllers
             }
 
             ViewBag.LanguageId = new SelectList(await _languageRepository.GetAll(), "Id", "Name", session.LanguageId);
-            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Name", session.FilmId);
+            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Tittle", session.FilmId);
             ViewBag.RoomId = new SelectList(await _roomRepository.GetAll(), "Id", "Name", session.RoomId);
             ViewBag.DimensionId = new SelectList(await _dimensionRepository.GetAll(), "Id", "Name", session.DimensionId);
             return View(session);
@@ -75,7 +75,7 @@ namespace Cinema_BD2.Controllers
 
             var types = await _sessionRepository.GetAll();
             ViewBag.LanguageId = new SelectList(await _languageRepository.GetAll(), "Id", "Name", session.LanguageId);
-            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Name", session.FilmId);
+            ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Tittle", session.FilmId);
             ViewBag.RoomId = new SelectList(await _roomRepository.GetAll(), "Id", "Name", session.RoomId);
             ViewBag.DimensionId = new SelectList(await _dimensionRepository.GetAll(), "Id", "Name", session.DimensionId);
 
@@ -91,26 +91,13 @@ namespace Cinema_BD2.Controllers
             if (!ModelState.IsValid)
             {
                 ViewBag.LanguageId = new SelectList(await _languageRepository.GetAll(), "Id", "Name", session.LanguageId);
-                ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Name", session.FilmId);
+                ViewBag.FilmId = new SelectList(await _filmRepository.GetAll(), "Id", "Tittle", session.FilmId);
                 ViewBag.RoomId = new SelectList(await _roomRepository.GetAll(), "Id", "Name", session.RoomId);
                 ViewBag.DimensionId = new SelectList(await _dimensionRepository.GetAll(), "Id", "Name", session.DimensionId);
 
                 return View(session);
             }
-
-            try
-            {
-                await _sessionRepository.Update(session);
-            }
-            catch (Exception ex)
-            {
-                ModelState.AddModelError(string.Empty, "Ocorreu um erro ao atualizar a sala. Tente novamente.");
-                var typesOnError = await _languageRepository.GetAll();
-
-                ViewBag.LanguageId = new SelectList(typesOnError, "Id", "Name", session.LanguageId);
-                return View(session);
-            }
-
+            await _sessionRepository.Update(session);
             return RedirectToAction(nameof(Index));
         }
     }

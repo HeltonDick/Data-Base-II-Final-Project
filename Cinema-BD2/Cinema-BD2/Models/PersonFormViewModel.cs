@@ -4,6 +4,7 @@ namespace Cinema_BD2.Models
 {
     public class PersonFormViewModel
     {
+        // Puxamo person de uma vez s[o pra num precisa fica reconstruino daq tlgd?
         public Person Person { get; set; } = new Person();
 
         // Lista de roles disponíveis (para exibir os checkboxes)

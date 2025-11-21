@@ -6,33 +6,33 @@
 
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+        <form asp-action="Edit" asp-route-id="@Model.Film.Id" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             @Html.AntiForgeryToken()
-            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="Film.Id" />
 
             <div class="form-group">
-                <label asp-for="Title" class="control-label">Titulo</label>
-                <input asp-for="Title" class="form-control" />
-                <span asp-validation-for="Title" class="text-danger"></span>
+                <label asp-for="Film.Title" class="control-label">Titulo</label>
+                <input asp-for="Film.Title" class="form-control" />
+                <span asp-validation-for="Film.Title" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Duration" class="control-label">Duracao</label>
-                <input asp-for="Duration" type="number" class="form-control" />
-                <span asp-validation-for="Duration" class="text-danger"></span>
+                <label asp-for="Film.Duration" class="control-label">Duracao</label>
+                <input asp-for="Film.Duration" type="number" class="form-control" />
+                <span asp-validation-for="Film.Duration" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Description" class="control-label">Descrição</label>
-                <textarea asp-for="Description" class="form-control"></textarea>
-                <span asp-validation-for="Description" class="text-danger"></span>
+                <label asp-for="Film.Description" class="control-label">Descrição</label>
+                <textarea asp-for="Film.Description" class="form-control"></textarea>
+                <span asp-validation-for="Film.Description" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="ClassificationId" class="control-label">Classificação</label>
-                <select asp-for="ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
-                <span asp-validation-for="ClassificationId" class="text-danger"></span>
+                <label asp-for="Film.ClassificationId" class="control-label">Classificação</label>
+                <select asp-for="Film.ClassificationId" class="form-control" asp-items="@(new SelectList(Model.Classifications, "Id", "MinAge"))"></select>
+                <span asp-validation-for="Film.ClassificationId" class="text-danger"></span>
             </div>
 
             <div class="form-group">
@@ -56,6 +56,8 @@
                     </div>
                 }
             </div>
+
+            <hr />
 
             <div class="form-group">
                 <button type="submit" class="btn btn-success">Salvar</button>

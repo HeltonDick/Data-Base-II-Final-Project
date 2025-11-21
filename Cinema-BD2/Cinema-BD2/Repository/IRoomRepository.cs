@@ -11,5 +11,6 @@ namespace Cinema_BD2.Repository
 
         Task<Room?> GetById(int id);
         Task<List<Room>> GetAll();
+        Task <List<Room>> GetByName(string name);
     }
 }
