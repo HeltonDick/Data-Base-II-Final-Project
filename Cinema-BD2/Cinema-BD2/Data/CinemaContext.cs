@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Cinema_BD2.Data
 {
-    public class CinemaContext :DbContext
+    public class CinemaContext : DbContext
     {
         public CinemaContext(DbContextOptions<CinemaContext> options)
             : base(options)

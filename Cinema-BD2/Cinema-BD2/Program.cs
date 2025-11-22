@@ -14,26 +14,22 @@ builder.Services.AddDbContext<CinemaContext>(options =>
 );
 
 // Repository Dependency Injection //
-builder.Services.AddScoped<IGenderRepository, GenderRepository>();
-builder.Services.AddScoped<IDistrictRepository, DistrictRepository>();
-builder.Services.AddScoped<ITypeOfRoomRepository, TypeOfRoomRepository>();
-builder.Services.AddScoped<ILanguageRepository, LanguageRepository>();
-builder.Services.AddScoped<IGenderRepository, GenderRepository>();
-builder.Services.AddScoped<IGenreRepository, GenreRepository>();
-builder.Services.AddScoped<IStudioRepository, StudioRepository>();
-builder.Services.AddScoped<IFilmRepository, FilmRepository>();
-builder.Services.AddScoped<IRoomRepository, RoomRepository>();
-builder.Services.AddScoped<IAddressRepository, AddressRepository>();
-builder.Services.AddScoped<IClassificationRepository, ClassificationRepository>();
-builder.Services.AddScoped<IPerosonRepository, PersonRepository>();
-builder.Services.AddScoped<IRoleRepository, RoleRepository>();
-builder.Services.AddScoped<IStudioRepository, StudioRepository>();
-builder.Services.AddScoped<ITypeOfRoomRepository, TypeOfRoomRepository>();
-builder.Services.AddScoped<ITicketRepository, TicketRepository>();
-builder.Services.AddScoped<IStreetRepository, StreetRepository>();
-builder.Services.AddScoped<ISessionRepository, SessionRepository>();
-builder.Services.AddScoped<IDimensionRepository, DimensionRepository>();
-
+builder.Services.AddScoped<IGenderRepository, GenderRepository>(); // CERTO
+builder.Services.AddScoped<IDistrictRepository, DistrictRepository>(); // CERTO
+builder.Services.AddScoped<ILanguageRepository, LanguageRepository>(); // CERTO
+builder.Services.AddScoped<IGenreRepository, GenreRepository>(); // CERTO
+builder.Services.AddScoped<IStudioRepository, StudioRepository>(); // CERTO
+builder.Services.AddScoped<IFilmRepository, FilmRepository>(); // CERTO
+builder.Services.AddScoped<IRoomRepository, RoomRepository>(); // CERTO
+builder.Services.AddScoped<IAddressRepository, AddressRepository>(); // CERTO
+builder.Services.AddScoped<IClassificationRepository, ClassificationRepository>(); // CERTO
+builder.Services.AddScoped<IPerosonRepository, PersonRepository>(); // CERTO
+builder.Services.AddScoped<IRoleRepository, RoleRepository>(); // CERTO
+builder.Services.AddScoped<ITypeOfRoomRepository, TypeOfRoomRepository>(); // CERTO
+builder.Services.AddScoped<ITicketRepository, TicketRepository>(); // CERTO
+builder.Services.AddScoped<IStreetRepository, StreetRepository>(); // CERTO
+builder.Services.AddScoped<ISessionRepository, SessionRepository>(); // CERTO
+builder.Services.AddScoped<IDimensionRepository, DimensionRepository>(); // CERTO
 // End Repository Dependency Injection //
 
 var app = builder.Build();
@@ -42,11 +38,7 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
 }
-
-app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthorization();
@@ -58,6 +50,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+CreateDbIfNotExists(app);
 
 app.Run();
 

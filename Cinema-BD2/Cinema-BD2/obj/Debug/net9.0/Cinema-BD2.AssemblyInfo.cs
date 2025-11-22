@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cinema-BD2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0e48440e122eca48af64e04c199d29309d22aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5be70c41507cfbd1ec8637a878d6512f588e927")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cinema-BD2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cinema-BD2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

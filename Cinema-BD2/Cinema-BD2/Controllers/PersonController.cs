@@ -140,7 +140,7 @@ namespace Cinema_BD2.Controllers
 
         // Search Bar
         [HttpGet]
-        public async Task<IActionResult> Index(string? search)
+        public async Task<IActionResult> Search(string? search)
         {
             if (!string.IsNullOrEmpty(search))
             {

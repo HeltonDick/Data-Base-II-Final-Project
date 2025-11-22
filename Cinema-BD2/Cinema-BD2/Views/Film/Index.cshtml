@@ -15,13 +15,17 @@
         <h1>Nenhum Filme cadastrado.</h1>
     }
 
-        <a asp-controller="Film" asp-action="Create">Novo</a>
+    <a asp-controller="Film" class="btn btn-primary" asp-action="Create">Novo</a>
+
+    <hr />
+
         <table class="table table-responsive table-hover table-striped">
             <tr>
                 <th>Título</th>
                 <th>Duração</th>
                 <th>Classificação</th>
-                <th>Ações</th>
+                <th>Editar</th>
+                <th>Excluir</th>
             </tr>
             <tbody>
                 @foreach (var film in Model)

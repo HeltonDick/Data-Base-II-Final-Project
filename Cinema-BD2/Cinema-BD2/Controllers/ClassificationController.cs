@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Cinema_BD2.Controllers
 {
-    public class CrassificationController : Controller
+    public class ClassificationController : Controller
     {
         private readonly IClassificationRepository _classificationRepository;
-        public CrassificationController(IClassificationRepository classificationRepository)
+        public ClassificationController(IClassificationRepository classificationRepository)
         {
             _classificationRepository = classificationRepository;
         }
